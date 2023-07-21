@@ -1,4 +1,4 @@
-const addInput = document.getElementById(add-field);
+const addInput = document.getElementById("add-field");
 
 const colorInput = document.getElementById("color-field");
 const itemList = document.getElementById("item-list");
